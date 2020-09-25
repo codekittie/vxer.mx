@@ -2,16 +2,16 @@
 layout: default
 ---
 
-[Contact Us!](./another-page.html).
 
 # Welcome to Vxer
 
-Welcome to a platform where we help you train your devs so even they know how to secure your company. Vxer is safe and fun environment where we have pen-testing and as you already know training. Our training consists of fun and educational games where your devs learn security offense and defense. So by the end of this your devs will have had fun and your company will be secure.
+Welcome to a platform where we help you train your devs so even they know how to secure your company. Vxer is a safe and fun environment where we have pen-testing and as you already know training. Our training consists of fun and educational games where your devs learn offense and defense security. So by the end of this your devs will have had fun and your company will be secure.
 
 ## What is our goal?
 
-> Here at Vxer we train your Devs  for security and help keep your company safe while still having fun. Our goal is to make you as comfortable and assured of your company being safe than you have ever been.
+> Here at Vxer we train your Devs  for security and help keep your company be safe while still having fun. Our goal is to make you as comfortable and assured of your company being safe than you have ever been.
 > Keep reading and find out our services and what they consist of.
+
 # Our Services
 
 ## Fun security dev training for Startups
@@ -30,9 +30,11 @@ Welcome to a platform where we help you train your devs so even they know how to
 ## Examples of some of our games
 
 | Name         | Basis             | Goal |
-| Cops and Robbers| There is a vault robbers try to open it and police try to protect it | Whoever stays with the money wins  |
-| Capture the Flag | There and flags hidden and protected   | Whichever team has the most flags of their color win  |
+| Cops and Robbers| There is a vault. Robbers try to open it and police try to protect it | Whoever stays with the money wins  |
+| Capture the Flag | There are flags hidden and protected   | Whichever team has the most flags of their color win  |
 
 
 >IMPORTANT NOTE: All of these games are done on computers and are solved with code.
+
+Thank you for your time and attention!
 

@@ -2,122 +2,53 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Contact Us!](./another-page.html).
 
-[Link to another page](./another-page.html).
+# Welcome to Vxer
 
-There should be whitespace between paragraphs.
+Welcome to a platform where we help you train your devs so even they know how to secure your company. Vxer is safe and fun environment where we have pen-testing and as you already know training. Our training consists of fun and educational games where your devs learn security offense and defense. So by the end of this your devs will have had fun and your company will be secure.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## What is our goal?
 
-# Header 1
+> Here at Vxer we train your Devs  for security and help keep your company safe while still having fun. Our goal is to make you as comfortable and assured of your company being safe than you have ever been.
+> Keep reading and find out our services and what they consist of.
+# Our Services
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Fun security dev training for Startups
 
-## Header 2
+### Pentesting
+* Starting this process we first hack into the site
+* After we hack the site we explain step by step how we did it
+* At the end of this process we show your team the vulnerabilities and how to fix them
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Training
+* At the beginning of this process we prepare a list of fun activities/games that focus on offense and defense security
+* Then you can choose to either do the activities through video call or by us going straight to your office
+* Once there we will explain how to play the games and how everything is going to work and then we begin
+* At the end of this process your devs would have had fun and learned to keep your company safe.
 
-### Header 3
+## Examples of some of our games
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| Name         | Basis             | Goal |
+| Cops and Robbers| There is a vault robbers try to open it and police try to protect it | Whoever stays with the money wins  |
+| Capture the Flag | There and flags hidden and protected   | Whichever team has the most flags of their color win  |
 
 
-### Definition lists can be used with HTML syntax.
+>IMPORTANT NOTE: All of these games are done on computers and are solved with code.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Vxer</dd>
+<dt>Founded</dt>
+<dd>2020</dd>
+<dt>Origin</dt>
+<dd>Mexico</dd>
+<dt>Goal</dt>
+<dd>Secure your company the fun way</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+**Contact us if you're interested!**
 
-```
-The final element.
-```
+>Email: alej.alvarado94@gmail.com
+
+>Cel: 999 101 0508

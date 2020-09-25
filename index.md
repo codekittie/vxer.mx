@@ -36,19 +36,3 @@ Welcome to a platform where we help you train your devs so even they know how to
 
 >IMPORTANT NOTE: All of these games are done on computers and are solved with code.
 
-<dl>
-<dt>Name</dt>
-<dd>Vxer</dd>
-<dt>Founded</dt>
-<dd>2020</dd>
-<dt>Origin</dt>
-<dd>Mexico</dd>
-<dt>Goal</dt>
-<dd>Secure your company the fun way</dd>
-</dl>
-
-**Contact us if you're interested!**
-
->Email: alej.alvarado94@gmail.com
-
->Cel: 999 101 0508
